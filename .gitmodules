@@ -1,0 +1,3 @@
+[submodule "college-management-system"]
+	path = college-management-system
+	url = /college-management-system
